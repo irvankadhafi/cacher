@@ -1,4 +1,4 @@
-module github.com/kumparan/cacher
+module github.com/irvankadhafi/cacher
 
 go 1.18
 
